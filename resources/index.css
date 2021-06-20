@@ -112,8 +112,30 @@ header {
 .font-box{
     border: grey solid 2px;
     padding: 30px;
-    background-color: rgb(247, 223, 223)
+    background-color: rgb(202, 244, 251)
 }
 
 /*section 3 */
 
+#h1{
+    font-weight: 700 (bold);
+    font-family: Nunito Sans;
+    font-size: 30px;
+}
+
+#h2{
+    font-weight: 500;
+    font-size: 22px;
+    font-family: Poppins;
+}
+
+#p{
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.styles-box{
+    border: black solid 2px;
+    background-color: rgb(226, 133, 206);
+    padding: 20px;
+}
