@@ -7,6 +7,15 @@ body{
     font-weight: bold;
     text-align: center;
     margin: 50px;
+    text-decoration: underline;
+}
+
+.border {
+    border: solid 2px rgb(61, 60, 60);
+    padding: 0px 50px 50px 50px;
+    width: 80%;
+    margin: 50px auto;
+    background-color: cornsilk;
 }
 
 .container{
@@ -62,7 +71,7 @@ header {
 
 .colour-box {
     padding: 20px 80px;
-    border: black;
+    border: black 1px solid;
     border-radius: 3%;
 }
 
@@ -70,13 +79,7 @@ header {
     font-size: 20px;
 }
 
-.colours{
-    border: solid 2px rgb(61, 60, 60);
-    padding: 0px 50px 50px 50px;
-    width: 80%;
-    margin: 50px auto;
-    background-color: cornsilk;
-}
+
 
 /*section 2*/
 
@@ -97,5 +100,20 @@ header {
 }
 
 .font-italic{
-    
+    font-style: italic;
 }
+
+.font-name{
+    text-decoration: underline;
+    font-size: 20px;
+    text-align: center;
+}
+
+.font-box{
+    border: grey solid 2px;
+    padding: 30px;
+    background-color: rgb(247, 223, 223)
+}
+
+/*section 3 */
+
