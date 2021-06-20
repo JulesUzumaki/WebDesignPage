@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+    padding-top: 10%;
+}
+
+header {
+    height: 200px; 
+    background-image: url(https://i.pinimg.com/originals/92/b7/3c/92b73cd6467ceee125a99da4cf2f41c9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 400px;
+}
